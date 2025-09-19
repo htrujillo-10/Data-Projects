@@ -1,0 +1,34 @@
+2025-Sep-15-17:14:45 : Preliminaries complete. Initiating ETL process
+2025-Sep-15-17:14:49 : Data extraction complete. Initiating Transformation process
+2025-Sep-15-17:14:49 : Data transformation complete. Initiating loading process
+2025-Sep-15-17:14:49 : Data saved to CSV file
+2025-Sep-15-17:14:49 : SQL Connection initiated.
+2025-Sep-15-17:14:49 : Data loaded to Database as table. Running the query
+2025-Sep-15-17:14:49 : Process Complete.
+2025-Sep-15-20:07:03 : Preliminaries complete. Initiating ETL process
+2025-Sep-15-20:07:05 : Data extraction complete. Initiating Transformation process
+2025-Sep-15-20:07:05 : Data transformation complete. Initiating loading process
+2025-Sep-15-20:07:05 : Data saved to CSV file
+2025-Sep-15-20:07:05 : SQL Connection initiated.
+2025-Sep-15-20:07:05 : Data loaded to Database as table. Running the query
+2025-Sep-15-20:07:05 : Process Complete.
+2025-Sep-16-18:15:14 : Preliminaries complete. Initiating ETL process
+2025-Sep-16-18:15:59 : Preliminaries complete. Initiating ETL process
+2025-Sep-16-18:16:38 : Preliminaries complete. Initiating ETL process
+2025-Sep-16-18:18:40 : Preliminaries complete. Initiating ETL process
+2025-Sep-16-18:57:06 : Preliminaries complete. Initiating ETL process
+2025-Sep-16-18:57:09 : Data extraction complete. Initiating Transformation process
+2025-Sep-16-18:57:09 : Data transformation complete. Initiating loading process
+2025-Sep-16-18:57:09 : Data saved to CSV file
+2025-Sep-16-18:57:09 : SQL Connection initiated.
+2025-Sep-16-18:57:09 : Data loaded to Database as table. Running the query
+2025-Sep-16-18:57:09 : Process Complete.
+2025-Sep-16-18:57:09 : Server Connection closed.
+2025-Sep-17-07:11:23 : Preliminaries complete. Initiating ETL process
+2025-Sep-17-07:11:43 : Data extraction complete. Initiating Transformation process
+2025-Sep-17-07:11:43 : Data transformation complete. Initiating loading process
+2025-Sep-17-07:11:43 : Data saved to CSV file
+2025-Sep-17-07:11:43 : SQL Connection initiated.
+2025-Sep-17-07:11:43 : Data loaded to Database as table. Running the query
+2025-Sep-17-07:11:43 : Process Complete.
+2025-Sep-17-07:11:43 : Server Connection closed.
